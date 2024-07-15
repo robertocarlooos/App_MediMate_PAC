@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App_MediMate</string>
+    <string name="msg_token_fmt">token_app</string>
+</resources>
