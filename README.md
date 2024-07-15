@@ -11,5 +11,10 @@ Muitas pessoas especialmente idosos,pacientes crônicos e cuidadores, precisam d
 Funcionalidades:
 .Login
 .Adicionar medicamentos
-.
-:
+.Recordatorio Diario
+.Ver Medicamento
+
+Contactos:
+Roberto López 26064@stu.ipbeja.pt
+Manuel Machado 25898@stu.ipbeja.pt
+Gonçalo Rosário 24293@stu.ipbeja.pt
