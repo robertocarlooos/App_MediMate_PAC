@@ -7,3 +7,9 @@ Aplicação de Gestão de medicamentos
 
 
 Muitas pessoas especialmente idosos,pacientes crônicos e cuidadores, precisam de uma maneira simples e eficiente de gerenciar os seus medicamentos diarios, para tal cria-mos uma aplicação que se aplica a estas necessidades a MediMate.
+
+Funcionalidades:
+.Login
+.Adicionar medicamentos
+.
+:
